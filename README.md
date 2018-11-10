@@ -1,3 +1,2 @@
 # UltimateTicTacToe
-Ultimate tic tac toe game with user inputs, timer, and Java GUI
-A final project for my Intro to Programming class in high school - sophomore year
+Ultimate tic tac toe game with user inputs, timer, and Java GUI. This is my final project for my Intro to Programming class in sophomore year of high school.
